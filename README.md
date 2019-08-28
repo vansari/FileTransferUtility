@@ -1,4 +1,4 @@
-## FileTransaferUtility
+## FileTransferUtility
 
 This little project should make it easier to transfer files and folders 
 from one place to another over most Protocols like SSH/SFTP/FTP/FTPS/HTTPS.
