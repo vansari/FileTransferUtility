@@ -1,0 +1,13 @@
+{
+    "name": "vansari/file-transfer-utility",
+    "description": "Utility for easy file transfer over ssh/sftp/ftp/ftps or https",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Kurt Junker",
+            "email": "junker.kurt@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
